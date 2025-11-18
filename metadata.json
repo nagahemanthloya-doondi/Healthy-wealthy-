@@ -1,0 +1,7 @@
+{
+  "name": "Health is Wealth Scanner",
+  "description": "An AI-powered food product scanner that provides a health score and nutritional analysis. Scan a barcode, enter it manually, or upload a product image to get instant insights from an AI nutritionist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
